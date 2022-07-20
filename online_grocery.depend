@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630540894 source:f:\nibm-projects\c++\online_grocery_210811\online_grocery\main.cpp
+	<iostream>
+	<ctime>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+
